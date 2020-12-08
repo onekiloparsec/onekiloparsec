@@ -6,9 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://onekiloparsec.dev](https://onekiloparsec.dev)
 
-- 💬 Ask me about **django, vue, swift, objective-c, python, numpy**
+- 💬 Ask me about **django, vue.js, swift, objective-c, python, stellar evolution and quantum optics...**
 
-- 📫 How to reach me **cedric@onekiloparsec.dev**
+- 📫 How to reach me **cedric@onekiloparsec.dev** or **cedric@arcsecond.io**
+
+- You may be interested in reading why such nickname [https://arxiv.org/abs/0812.4232](here)...
 
 
 <p align="center"> 
