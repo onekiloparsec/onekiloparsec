@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **cedric@onekiloparsec.dev** or **cedric@arcsecond.io**
 
-- You may be interested in reading why such nickname [https://arxiv.org/abs/0812.4232](here)...
+- You may be interested in reading why I chose such nickname [here](https://arxiv.org/abs/0812.4232)...
 
 
 <p align="center"> 
