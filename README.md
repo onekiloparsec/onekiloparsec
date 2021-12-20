@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [arcsecond.io](https://www.arcsecond.io)
 
-- 👨‍💻 All of my projects are available at [https://onekiloparsec.dev](https://onekiloparsec.dev)
+- 👨‍💻 All my projects are available on GitHub (my own personel website is now superfluous).
 
 - 💬 Ask me about **django, vue.js, swift, objective-c, python, stellar evolution and quantum optics...**
 
