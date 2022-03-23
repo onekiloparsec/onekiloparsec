@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **django, vue.js, swift, objective-c, python, stellar evolution and quantum optics...**
 
-- 📫 How to reach me **cedric@onekiloparsec.dev** or **cedric@arcsecond.io**
+- 📫 How to reach me **cedric@onekiloparsec.dev** or **cedric@arcsecond.io** for personal & astro matters.
+
+- 📫 Professionaly, you can reach me at **cedric.foellmi@aselta.com**
 
 - You may be interested in reading why I chose such nickname [here](https://arxiv.org/abs/0812.4232)...
 
