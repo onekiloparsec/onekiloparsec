@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **cedric@onekiloparsec.dev** or **cedric@arcsecond.io** for personal & astro matters.
 
-- 📫 Professionaly, you can reach me at **cedric.foellmi@aselta.com**
-
 - You may be interested in reading why I chose such nickname [here](https://arxiv.org/abs/0812.4232)...
 
 
